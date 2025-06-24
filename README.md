@@ -28,10 +28,6 @@ CLI integration via argparse
 
 📊 Results (Test Accuracy)
 
-Configuration
-
-Accuracy (%)
-
 Baseline 93.0
 
 Weighted Sampler 93.4
@@ -44,17 +40,4 @@ Mixup + Weighted Sampler 95.21
 
 CutMix + Weighted Sampler 94.6
 
-📌 Future Work
-
-Explore deeper networks like ResNet or EfficientNet
-
-Hyperparameter optimization for α, learning rates, etc.
-
-Extend to real-world datasets like DeepFashion
-
-Integrate into a production inference pipeline
-
-📌 Report
-
-A detailed technical report describing the motivation, methodology, implementation details, and full experiment analysis is included in the repository as JuliaBIAIRaport.docx.
 
