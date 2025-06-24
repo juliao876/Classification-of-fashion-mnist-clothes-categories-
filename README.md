@@ -25,15 +25,6 @@ NumPy, scikit-learn, matplotlib, seaborn
 
 CLI integration via argparse
 
-📁 Structure
-
-.
-├── main.py                # CLI interface & training logic
-├── train.py               # Training loop with mixup & cutmix
-├── evaluate.py            # Evaluation + confusion matrix
-├── models/cnn.py          # CNN model definition
-├── data_loader.py         # Data loading and augmentation
-├── early_stopping.py      # Early stopping callback
 
 📊 Results (Test Accuracy)
 
