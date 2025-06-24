@@ -41,29 +41,17 @@ Configuration
 
 Accuracy (%)
 
-Baseline
+Baseline 93.0
 
-93.0
+Weighted Sampler 93.4
 
-Weighted Sampler
+Mixup (α=0.4) 94.8
 
-93.4
+CutMix (α=1.0) 94.3
 
-Mixup (α=0.4)
+Mixup + Weighted Sampler 95.21
 
-94.8
-
-CutMix (α=1.0)
-
-94.3
-
-Mixup + Weighted Sampler
-
-95.21
-
-CutMix + Weighted Sampler
-
-94.6
+CutMix + Weighted Sampler 94.6
 
 📌 Future Work
 
