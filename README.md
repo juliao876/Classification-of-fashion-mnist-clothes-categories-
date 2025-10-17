@@ -3,7 +3,7 @@
 
 This project explores biologically inspired approaches to image classification using the Fashion-MNIST dataset. A convolutional neural network (CNN) is developed and enhanced with data augmentation strategies such as Mixup and CutMix, along with class-weighted sampling to address class imbalance.
 
-# 🚀 Features
+## 🚀 Features
 
 🧹 CNN architecture tailored for 28×28 grayscale fashion images
 
@@ -17,7 +17,7 @@ This project explores biologically inspired approaches to image classification u
 
 📉 Early stopping, confusion matrix visualization, and OneCycleLR for stable training
 
-# 🛠️ Stack
+## 🛠️ Stack
 
 Python, PyTorch, torchvision
 
@@ -26,7 +26,7 @@ NumPy, scikit-learn, matplotlib, seaborn
 CLI integration via argparse
 
 
-# 📊 Results (Test Accuracy)
+## 📊 Results (Test Accuracy)
 
 Baseline 93.0
 
